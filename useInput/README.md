@@ -4,8 +4,8 @@
 import useInput from "@nooks/use-input"
 
 const App = () => {
-  const noAt = value => !value.includes("@");
-  const name = useInput("Mr. ", noAt);
+  const validator = value => !value.includes("@");
+  const name = useInput("Mr. ", validator);
   return (
     <div className="App">
       <h1>Hello</h1>
