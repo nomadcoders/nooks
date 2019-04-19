@@ -1,7 +1,7 @@
 {
-  "name": "@nooks/use-title",
+  "name": "@nooks/use-confirm",
   "version": "1.0.1",
-  "description": "React Hook to update your document's title",
+  "description": "React Hook to prompt a confirmation before executing a function",
   "main": "index.js",
   "repository": {
     "type": "git",
