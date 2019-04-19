@@ -1,6 +1,6 @@
 {
   "name": "@nooks/use-confirm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Hook to prompt a confirmation before executing a function",
   "main": "index.js",
   "repository": {

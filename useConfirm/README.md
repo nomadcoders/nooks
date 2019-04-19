@@ -1,4 +1,4 @@
-# @nooks/use-confirmation
+# @nooks/use-confirm
 
 React Hook to ask the user for a confirmation before executing a function.
 
