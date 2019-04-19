@@ -1,6 +1,6 @@
 {
   "name": "@nooks/use-confirm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Hook to prompt a confirmation before executing a function",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,8 @@
   "keywords": [
     "react",
     "hooks",
-    "title"
+    "confirm",
+    "prompt"
   ],
   "author": "Nicolás Serrano Arévalo <nico@nomadcoders.co>",
   "license": "MIT",
