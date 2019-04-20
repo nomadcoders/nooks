@@ -1,0 +1,27 @@
+{
+  "name": "@nooks/use-scroll",
+  "version": "1.0.0",
+  "description": "React Hook to get X/Y coordinates of current position of the scroll.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomadcoders/nooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "scroll",
+    "coords",
+    "x/y"
+  ],
+  "author": "Nicolás Serrano Arévalo <nico@nomadcoders.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomadcoders/nooks/issues"
+  },
+  "homepage": "https://github.com/nomadcoders/nooks#readme",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
