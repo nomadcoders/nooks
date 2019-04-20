@@ -20,8 +20,8 @@ import useHover from "@nooks/use-hover";
 
 function App() {
   const onHover = () => console.log("Somebody hovered!");
-  const makedRef = useClick(onHover);
-  return <h1 ref={makedRef}>Hello Nooks</h1>;
+  const markedRef = useClick(onHover);
+  return <h1 ref={markedRef}>Hello Nooks</h1>;
 }
 ```
 
