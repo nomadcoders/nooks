@@ -1,0 +1,28 @@
+{
+  "name": "@nooks/use-network",
+  "version": "1.0.0",
+  "description": "React Hook to listen when the user goes online or offline.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomadcoders/nooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "online",
+    "offline",
+    "network",
+    "status"
+  ],
+  "author": "Nicolás Serrano Arévalo <nico@nomadcoders.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomadcoders/nooks/issues"
+  },
+  "homepage": "https://github.com/nomadcoders/nooks#readme",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

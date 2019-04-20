@@ -10,3 +10,4 @@ Collection of sexy React Hooks ready to install with NPM
 | useConfirmation | Prompt a confirmation before executing a function.     | [Documentation](https://github.com/nomadcoders/nooks/tree/master/useConfirm)     | [NPM Page](https://www.npmjs.com/package/@nooks/use-confirm)      |
 | useHover        | Detect a hover on any React Element.                   | [Documentation](https://github.com/nomadcoders/nooks/tree/master/useHover)       | [NPM Page](https://www.npmjs.com/package/@nooks/use-hover)        |
 | useBeforeLeave  | Execute a function when the mouse leaves the document. | [Documentation](https://github.com/nomadcoders/nooks/tree/master/useBeforeLeave) | [NPM Page](https://www.npmjs.com/package/@nooks/use-before-leave) |
+| useNetwork      | Listen when the user goes online or offline.           | [Documentation](https://github.com/nomadcoders/nooks/tree/master/useNetwork)     | [NPM Page](https://www.npmjs.com/package/@nooks/use-network)      |
