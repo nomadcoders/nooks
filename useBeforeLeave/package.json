@@ -1,7 +1,7 @@
 {
-  "name": "@nooks/use-hover",
-  "version": "1.0.3",
-  "description": "React Hook to detect a hover on an any React Element",
+  "name": "@nooks/use-before-leave",
+  "version": "1.0.1",
+  "description": "React Hook to execute a function when the mouse leaves the document",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -10,7 +10,10 @@
   "keywords": [
     "react",
     "hooks",
-    "hover"
+    "leave",
+    "beforeleave",
+    "unload",
+    "mouseleave"
   ],
   "author": "Nicolás Serrano Arévalo <nico@nomadcoders.co>",
   "license": "MIT",
