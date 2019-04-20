@@ -1,7 +1,7 @@
 {
   "name": "@nooks/use-before-leave",
   "version": "1.0.1",
-  "description": "React Hook to execute a function when the mouse leaves the document",
+  "description": "React Hook to execute a function when the mouse leaves the document.",
   "main": "index.js",
   "repository": {
     "type": "git",

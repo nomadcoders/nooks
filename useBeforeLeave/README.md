@@ -1,6 +1,6 @@
 # @nooks/use-before-leave
 
-React Hook to execute a function when the mouse leaves the page. Usefull to show a popup or for analytics.
+React Hook to execute a function when the mouse leaves the page. Useful to show a popup or for analytics.
 
 ## Installation
 
