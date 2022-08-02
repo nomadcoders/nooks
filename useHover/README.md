@@ -28,11 +28,11 @@ function App() {
 ### Arguments
 
 | Argument | Type     | Description                                       | Required |
-| -------- | -------- | ------------------------------------------------- | -------- |
+|----------|----------|---------------------------------------------------|----------|
 | onHover  | function | Function to be called when the element is hovered | yes      |
 
 ### Return
 
 | Return value | Type      | Description                                                     | Default value |
-| ------------ | --------- | --------------------------------------------------------------- | ------------- |
+|--------------|-----------|-----------------------------------------------------------------|---------------|
 | ref          | React Ref | A React Ref listening to the hover event, add it to any element | null          |

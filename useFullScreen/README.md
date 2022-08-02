@@ -35,7 +35,7 @@ function App() {
 ### Arguments
 
 | Argument | Type     | Description                                                       | Arguments        | Required |
-| -------- | -------- | ----------------------------------------------------------------- | ---------------- | -------- |
+|----------|----------|-------------------------------------------------------------------|------------------|----------|
 | onChange | function | Function to be called when the screen goes Fullscreen or exits is | isFull : Boolean | no       |
 
 ### Return
@@ -43,7 +43,7 @@ function App() {
 `useFullscreen` returns an object containing the following:
 
 | Return value | Type      | Description                                                |
-| ------------ | --------- | ---------------------------------------------------------- |
+|--------------|-----------|------------------------------------------------------------|
 | element      | React Ref | Ref to add to the element that you want to make fullscreen |
 | triggerFull  | Function  | Function to make the element enter fullscreen              |
 | exitFull     | Function  | Function to make the document exit fullscreen              |

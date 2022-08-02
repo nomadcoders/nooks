@@ -27,7 +27,7 @@ function App() {
 ### Arguments
 
 | Argument | Type   | Description                                     | Required | Default value |
-| -------- | ------ | ----------------------------------------------- | -------- | ------------- |
+|----------|--------|-------------------------------------------------|----------|---------------|
 | duration | number | Sets the duration of the transition. In seconds | no       | 1             |
 | delay    | number | Delays of transition's start. In seconds        | no       | 0             |
 
@@ -36,7 +36,7 @@ function App() {
 `useScroll` returns an object containing the following:
 
 | Name  | Type      | Description                                                               |
-| ----- | --------- | ------------------------------------------------------------------------- |
+|-------|-----------|---------------------------------------------------------------------------|
 | ref   | React Ref | A ref created to fadeIn the element                                       |
 | style | Object    | Style object containing `{opacity:0}` to give to the element as a default |
 

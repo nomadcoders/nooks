@@ -28,5 +28,5 @@ function App() {
 ### Arguments
 
 | Argument      | Type     | Description                                              | Required |
-| ------------- | -------- | -------------------------------------------------------- | -------- |
+|---------------|----------|----------------------------------------------------------|----------|
 | onBeforeLeave | function | Function to be called when the mouse leaves the document | yes      |

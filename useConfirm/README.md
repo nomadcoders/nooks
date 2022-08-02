@@ -28,7 +28,7 @@ function App() {
 ### Arguments
 
 | Argument  | Type     | Description                                         | Required |
-| --------- | -------- | --------------------------------------------------- | -------- |
+|-----------|----------|-----------------------------------------------------|----------|
 | message   | string   | Message to show the user on the confirmation propmt | yes      |
 | onConfirm | function | Function to be executed when the user confirms      | yes      |
 | onCancel  | function | Function to be executed when the user cancels       | no       |
@@ -36,5 +36,5 @@ function App() {
 ### Return
 
 | Return value | Type     | Description                                    | Default value |
-| ------------ | -------- | ---------------------------------------------- | ------------- |
+|--------------|----------|------------------------------------------------|---------------|
 | function     | function | Function wrapped around the confirmation logic | null          |

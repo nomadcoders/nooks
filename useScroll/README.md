@@ -31,5 +31,5 @@ function App() {
 ### Return
 
 | Return value | Type   | Description                                                             | Default value |
-| ------------ | ------ | ----------------------------------------------------------------------- | ------------- |
+|--------------|--------|-------------------------------------------------------------------------|---------------|
 | Coords       | Object | An object containing the x/y coordinates of the current scroll position | `{x:0, y:0}`  |
