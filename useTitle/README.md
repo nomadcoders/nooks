@@ -27,5 +27,5 @@ function App() {
 ### Arguments
 
 | Argument | Type   | Description                                | Required |
-| -------- | ------ | ------------------------------------------ | -------- |
+|----------|--------|--------------------------------------------|----------|
 | title    | string | The title you want to use on your document | yes      |

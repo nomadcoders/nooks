@@ -32,5 +32,5 @@ function App() {
 ### Return
 
 | Return value | Type   | Description                                                                                                                     |
-| ------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------- |
+|--------------|--------|---------------------------------------------------------------------------------------------------------------------------------|
 | Functions    | Object | A object containing functions `enablePrevent` and `disablePrevent`, use this functions to enable/disable the leaving prevention |
